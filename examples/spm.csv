@@ -1,0 +1,5 @@
+#;Time;Function;Direction;Status;Data;Data (chars);Data length;Req. length;Port;Comments;
+0;25/02/2025 20:26:47;IRP_MJ_WRITE;DOWN;;7e 00 04 08 01 44 42 70 ;"~....DBp";8;8;COM6;;
+1;25/02/2025 20:26:47;IRP_MJ_WRITE;UP;STATUS_SUCCESS;7e 00 04 08 01 44 42 70 ;"~....DBp";8;;COM6;;
+2;25/02/2025 20:26:47;IRP_MJ_READ;DOWN;;;"";;32768;COM6;;
+3;25/02/2025 20:26:47;IRP_MJ_READ;UP;STATUS_SUCCESS;7e 00 06 88 01 44 42 00 28 c8 ;"~..à.DB.(»";10;;COM6;;
